@@ -1,5 +1,12 @@
 @import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
 .top-50 { top: 50% }
+
+.mt1 {
+	margin-top: .25rem;
+  margin-bottom: .25rem;
+	text-align: center;
+}
+
 .f3 { text-align: center; }
 
 .f6 {
