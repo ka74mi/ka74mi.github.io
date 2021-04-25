@@ -2,9 +2,9 @@
 .top-50 { top: 50% }
 
 .mt1 {
-	margin-top: .25rem;
+  margin-top: .25rem;
   margin-bottom: .25rem;
-	text-align: center;
+  text-align: center;
 }
 
 .f3 { text-align: center; }
@@ -15,26 +15,26 @@
 }
 
 .blue {
-	color: #1aa8f5;
+  color: #1aa8f5;
 }
 
 .pa5-ns {
-	background-color: #28292a !important;
+  background-color: #28292a !important;
 }
 
 .ba-ns {
-	border-width: 1px;
+  border-width: 1px;
   background-color: #28292a;
 }
 
 .bb {
   color: #28292a;
-	border-bottom-width: 1px;
+  border-bottom-width: 1px;
 }
 
 .bt {
   color: #28292a;
-	border-top-width: 1px;
+  border-top-width: 1px;
 }
 
 /* Markdown styles */
