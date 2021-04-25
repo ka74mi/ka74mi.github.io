@@ -1,0 +1,19 @@
+# ----------- CONFIGURABLE START -----------
+title:            "虚無"
+url:              https://ka74mi.github.io # Site url, without a slash at the end.
+signoff:          "KA74MI" # Your name
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         About
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
