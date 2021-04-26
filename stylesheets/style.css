@@ -18,6 +18,7 @@
 }
 .pa5-ns {
 background-color: #28292a;
+z-index: 1;
 }
 .ba-ns {
   border-width: 1px;
