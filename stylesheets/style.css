@@ -13,23 +13,23 @@
   max-width: 80rem;
 }
 .f6 {
-  background-color: #1e1f20;
-  color: #d2d3d4;
+  background-color: #222222;
+  color: #d2d2d2;
 }
 .pa5-ns {
-background-color: #28292a;
+background-color: #292929;
 z-index: 1;
 }
 .ba-ns {
   border-width: 1px;
-  background-color: #28292a;
 }
 .bb {
-  color: #1e1f20;
+  background-color: #292929;
+  color: #1e1e1e;
   border-bottom-width: 1px;
 }
 .bt {
-  color: #28292a;
+  color: #292929;
   border-top-width: 1px;
 }
 
