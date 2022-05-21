@@ -13,23 +13,23 @@
   max-width: 80rem;
 }
 .f6 {
-  background-color: #222222;
+  background-color: #181818;
   color: #d2d2d2;
 }
 .pa5-ns {
-background-color: #292929;
+background-color: #222222;
 z-index: 1;
 }
 .ba-ns {
   border-width: 1px;
 }
 .bb {
-  background-color: #292929;
+  background-color: #222222;
   color: #1e1e1e;
   border-bottom-width: 1px;
 }
 .bt {
-  color: #292929;
+  color: #222222;
   border-top-width: 1px;
 }
 
@@ -50,7 +50,7 @@ z-index: 1;
   margin: 0;
   overflow: auto;
   background-color: #444444;
-  color: #d2d3d4
+  color: #d2d2d2
 }
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
